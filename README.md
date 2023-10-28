@@ -1,2 +1,3 @@
 # sample-repo
-練習
+更新
+
