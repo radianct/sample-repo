@@ -3,4 +3,4 @@
 ローカルリポで変更
 new-featureブランチで変更
 conflictブランチで変更
-githubで更新
+githubで更新2回目
